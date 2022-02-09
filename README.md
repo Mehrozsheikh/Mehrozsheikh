@@ -2,7 +2,7 @@
 - 👀 I’m interested in prohgramming
 - 🌱 I’m currently learning Flutter App Development
 - 💞️ I’m looking to collaborate on mobile apps
-- 📫 How to reach me @mehrozsheikh333@gmail.com
+- 📫 How to reach me mehrozsheikh333@gmail.com
 
 <!---
 Mehrozsheikh/Mehrozsheikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
