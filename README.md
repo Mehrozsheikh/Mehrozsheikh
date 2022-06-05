@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mehrozsheikh
-- 👀 I’m interested in prohgramming
-- 🌱 I’m currently learning Flutter App Development
-- 💞️ I’m looking to collaborate on mobile apps
+- 👀 I’m interested in Programming
+- 🌱 I’m currently a Flutter App Developer
+- 💞️ I’m looking to collaborate on Mobile Apps
 - 📫 How to reach me mehrozsheikh333@gmail.com
 
 <!---
